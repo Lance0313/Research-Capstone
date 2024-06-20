@@ -1,2 +1,2 @@
-# Research-Capstone
-A project for my requirement in BS Computer Engineering Practice and Design. This project is a Medicine vending machine that is cloud based. It also have the feature of suggestion system wherein users will be able to input a symptom and the system will give recommendation medicines.
+# VendingMachine
+Our Requirement for our BS Computer Engineering course, CpE Practice and Design, as research project.
